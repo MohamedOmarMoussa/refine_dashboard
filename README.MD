@@ -14,17 +14,10 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
-
 
 ## <a name="introduction">🤖 Introduction</a>
 
 React-based CRM dashboard featuring comprehensive authentication, antd charts, sales management, and a fully operational kanban board with live updates for real-time actions across all devices.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -1997,7 +1990,3 @@ export const UserTag = ({ user }: Props) => {
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-Other components (Kanban Edit Forms, Skeletons and utilities) used in the project can be found [here](https://drive.google.com/drive/folders/1oDFoI-a8qSJqHde6doUtM9NCHlYpWdNW?usp=sharing)

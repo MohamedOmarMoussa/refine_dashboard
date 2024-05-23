@@ -62,7 +62,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/refine_dashboard.git
+git clone https://github.com/MohamedOmarMoussa/refine_dashboard.git
 cd refine_dashboard
 ```
 

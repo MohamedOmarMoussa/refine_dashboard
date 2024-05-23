@@ -1,20 +1,9 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/6a3Dz8gwjdg" target="_blank">
-      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/ad757d91-cdee-45ea-882e-4b19e3fd532f" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Refine-black?style=for-the-badge&logoColor=white&logo=refine&color=14141F" alt="refine" />
-    <img src="https://img.shields.io/badge/-Ant_Design-black?style=for-the-badge&logoColor=white&logo=antdesign&color=0170FE" alt="antd" />
-  </div>
 
   <h3 align="center">A CRM Dashboard</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step!
     </div>
 </div>
 
